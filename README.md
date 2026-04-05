@@ -1,6 +1,6 @@
 # Support-Vector-Machines(SVM)
 
-TThe project explores the versatility of SVMs in handling both multivariate regression and non-separable classification problems.
+The project explores the versatility of SVMs in handling both multivariate regression and non-separable classification problems.
 
 1. Reactive-Ion Plasma Etching (Multivariate Regression) 
 
